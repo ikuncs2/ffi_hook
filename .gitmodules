@@ -1,9 +1,3 @@
-[submodule "3rd/detours"]
-	path = 3rd/detours
-	url = git@github.com:Microsoft/Detours.git
-[submodule "3rd/bee.lua"]
-	path = 3rd/bee.lua
-	url = git@github.com:actboy168/bee.lua.git
-[submodule "3rd/luaffi"]
-	path = 3rd/luaffi
-	url = https://github.com/actboy168/luaffi
+[submodule "Detours"]
+	path = Detours
+	url = https://github.com/microsoft/Detours
